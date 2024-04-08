@@ -299,7 +299,7 @@ PRODUCT_PACKAGES += \
     init.mi_udfps.rc \
     init.qcom.early_boot.sh \
     init.qcom.rc \
-    init.qcom.recovery.rc \
+    init.recovery.qcom.rc \
     init.qcom.sh \
     init.qti.kernel.rc \
     ueventd.xiaomi.rc \
