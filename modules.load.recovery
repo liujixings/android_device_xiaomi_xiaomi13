@@ -111,6 +111,7 @@ plh_scmi.ko
 qdss_bridge.ko
 qcom_cpu_vendor_hooks.ko
 mem-offline.ko
+fpc1555.ko
 fsa4480-i2c.ko
 msm_show_epoch.ko
 gh_tlmm_vm_mem_access.ko
@@ -187,6 +188,7 @@ redriver.ko
 nb7vpq904m.ko
 xiaomi_touch.ko
 fts_touch_spi.ko
+mi_thermal_interface.ko
 pm8941-pwrkey.ko
 qcom-hv-haptics.ko
 goodix_fod.ko

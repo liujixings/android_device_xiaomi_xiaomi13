@@ -73,6 +73,7 @@ dwc3-msm.ko
 wcd_usbss_i2c.ko
 ucsi_glink.ko
 redriver.ko
+fpc1555.ko
 fsa4480-i2c.ko
 msm_show_epoch.ko
 gh_tlmm_vm_mem_access.ko
@@ -121,6 +122,7 @@ repeater-i2c-eusb2.ko
 nb7vpq904m.ko
 xiaomi_touch.ko
 fts_touch_spi.ko
+mi_thermal_interface.ko
 pm8941-pwrkey.ko
 mtdoops.ko
 mtd.ko
